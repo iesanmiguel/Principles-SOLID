@@ -1,9 +1,8 @@
 package SRP.services;
 
 import SRP.models.Employee;
-import SRP.models.Report;
 
-public class ServiceEmployee {
+public class EmployeeService {
     public Employee getEmployeeById(long id){
         return null;
     }

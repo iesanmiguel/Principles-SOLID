@@ -1,6 +1,6 @@
 package SRP.services;
 
-public class ServiceSalary {
+public class SalaryService {
     public long calculateSalary(long id){
         return 0;
     }

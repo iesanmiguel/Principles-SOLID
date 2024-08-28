@@ -2,7 +2,7 @@ package SRP.services;
 
 import SRP.models.Report;
 
-public class ServiceReport {
+public class ReportService {
     public Report generateReport(long id){
         return null;
     }
